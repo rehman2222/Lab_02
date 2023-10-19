@@ -123,6 +123,9 @@ to use it to convert the US national debt
 (which as of 2020 was \$26,009,754,625,487)?
 Why or why not?
 
+we dont use int there becuese it range is upto 2,147,483,647 and the value in the qustion is more than int range.
+so for that we will be use long or long long for large number.
+
 
 
 
