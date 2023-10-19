@@ -4,12 +4,33 @@
 
 Name(s) and Login(s):
 
+Abdur rehman 
+
+rehman2222
 
 
 1. Dennis Ritchie, the creator of the C programming language,
 was born on September 9th, 1941.  If he were still alive,
 how old would he be today?  Find out by running the `birthday`
 program on the appropriate inputs and enter your solution here.
+
+solution:
+Please Enter Your First Name (no spaces) followed by ENTER: DennisRitchie  
+Enter the year in which you were born: 1941
+Enter the month in which you were born (1-12): 9
+Enter the day of the month in which you were born (1-31): 9
+Today is 2023/10/18
+Your birthday was 1941/09/09
+Hello, DennisRitchie.  You are 0 years, 0 weeks, and 0 days old today
+
+solution 2:
+Please Enter Your First Name (no spaces) followed by ENTER: Rehman
+Enter the year in which you were born: 2003
+Enter the month in which you were born (1-12): 3
+Enter the day of the month in which you were born (1-31): 29
+Today is 2023/10/18
+Your birthday was 2003/03/29
+Hello, Rehman.  You are 20 years, 29 weeks, and 0 days old today
 
 
 
