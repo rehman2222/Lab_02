@@ -2,8 +2,8 @@
 
 int main (){
 
-   const float JPY = 127.65;
-   const float GBP = 0.79; 
+   const float JPy = 127.65;
+   const float BPG = 0.79; 
 
    float exchange_rate, USD;
    printf("pleas input the total amount of US Dollar: ");
@@ -13,11 +13,11 @@ int main (){
    printf("Exchange_rate = %f\n", exchange_rate);
    USD = USD - exchange_rate;
 
-   float JPY = (USD*1/2*JPY);
-   float GBP = (USD*1/2*GBP);
+   float JPY = (USD*1/2*JPy);
+   float GPB = (USD*1/2*BPG);
 
    printf("JPY = %f",JPY);
-   printf("GBP = %f", GBP);
+   printf("GBP = %f", BPG);
 
    return 0 ;
 
