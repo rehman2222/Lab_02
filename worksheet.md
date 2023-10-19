@@ -103,11 +103,18 @@ Hello, Rehman.  You are 19 years, 28 weeks, and 1 days old today.
 the exchange amounts for the following inputs:
 
   a) $250.25
-   
+   pleas input the total amount of US Dollar: $250.25
+Exchange_rate = 0.000000
+JPY = 0.000000
+GBP = 0.790000
   b) $1,000.52
-
+   Exchange_rate = 0.000000
+JPY = 0.000000
+GBP = 0.790000
   c) $968,410.12
-
+Exchange_rate = 0.000000
+JPY = 0.000000
+GBP = 0.790000
 
 
 6. Suppose that you had used only `int` types
@@ -131,3 +138,7 @@ Does the program give correct results?  Why not?
 
 c) Fix the program by editing the `area.c` source
 code so that the program produces correct results.
+
+correct form:
+
+area = base * height * 

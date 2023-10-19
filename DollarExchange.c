@@ -13,8 +13,8 @@ int main (){
    printf("Exchange_rate = %f\n", exchange_rate);
    USD = USD - exchange_rate;
 
-   float JPY = (USD*1/2*JPy);
-   float GPB = (USD*1/2*BPG);
+   float JPY = (USD*JPy);
+   float GPB = (USD*BPG);
 
    printf("JPY = %f",JPY);
    printf("GBP = %f", BPG);
