@@ -16,5 +16,10 @@ int main (){
    float JPY = (USD*1/2*JPY);
    float GBP = (USD*1/2*GBP);
 
-   
+   printf("JPY = %f",JPY);
+   printf("GBP = %f", GBP);
+
+   return 0 ;
+
+
 }
