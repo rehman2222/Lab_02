@@ -39,6 +39,23 @@ Hello, Rehman.  You are 20 years, 29 weeks, and 0 days old today
 language, the object-oriented extension of C, was born on
 December 30th, 1950.  How old is he today?
 
+Solution 1:
+Please Enter Your First Name (no spaces) followed by ENTER: BjarneStroustrup  
+Enter the year in which you were born: 1950
+Enter the month in which you were born (1-12): 12
+Enter the day of the month in which you were born (1-31): 30
+Today is 2023/10/18
+Your birthday was 1950/12/30
+Hello, BjarneStroustrup.  You are 0 years, 0 weeks, and 0 days old today
+
+solution 2:
+Please Enter Your First Name (no spaces) followed by ENTER: Rehman
+Enter the year in which you were born: 2003
+Enter the month in which you were born (1-12): 3
+Enter the day of the month in which you were born (1-31): 29
+Today is 2023/10/18
+Your birthday was 2003/03/29
+Hello, Rehman.  You are 20 years, 29 weeks, and 0 days old today
 
 
 
