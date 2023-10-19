@@ -103,7 +103,7 @@ Hello, Rehman.  You are 19 years, 28 weeks, and 1 days old today.
 the exchange amounts for the following inputs:
 
   a) $250.25
-
+   
   b) $1,000.52
 
   c) $968,410.12
