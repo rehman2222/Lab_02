@@ -1,10 +1,10 @@
 /**
- * Author: Chris Bourke
+ * Author: Abdur Rehman 
  * 
  * This program prompts the user to enter the
  * base and the height of a triangle and computes
  * its area using the well-known formula
- *  1/2 * base * height
+ *   base * height * 1/2
  *
  */
 #include <stdlib.h>
