@@ -83,19 +83,19 @@ Hello, Rehman.  You are 19 years, 28 weeks, and 1 days old today.
   size: 1 byte
   range: -128 to 127
 * `short int`
-  size:
-  range:
+  size: 2 bytes 
+  range: -32768 to 32767
 * `int`
-  size:
-  range:
+  size: 4 bytes 
+  range: -2147483648 to 2147483647
 * `long int`
-  size:
-  range:
+  size: 4 bytes 
+  range: 0 to 4294967295
 * `float`
-  size:
+  size: 4 bytes 
   range: 7 digits of accuracy
 * `double`
-  size:
+  size: 8 bytes
   range: 15 digits of accuracy
 
 
