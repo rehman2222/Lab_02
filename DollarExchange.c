@@ -12,4 +12,9 @@ int main (){
    exchange_rate = (USD/10);
    printf("Exchange_rate = %f\n", exchange_rate);
    USD = USD - exchange_rate;
+
+   float JPY = (USD*1/2*JPY);
+   float GBP = (USD*1/2*GBP);
+
+   
 }
