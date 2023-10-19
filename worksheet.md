@@ -66,7 +66,15 @@ program by giving it "bad" input and observe the consequences.
 Give at least two examples of potentially bad input and the
 results you observe.
 
+Example 1:
+Today is 2023/10/18
+Your birthday was 1941/09/09
+Hello, Dennis.  You are 0 years, 0 weeks, and 0 days old today.
 
+Example 2:
+Today is 2023/10/18
+Your birthday was 2004/04/04
+Hello, Rehman.  You are 19 years, 28 weeks, and 1 days old today.
 
 
 4. Complete all the size and range entries below.
