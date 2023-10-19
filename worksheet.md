@@ -131,9 +131,12 @@ Why or why not?
 a) Run the `area` program with 3 and 4 as inputs.  
 What value do you get?  Is this result correct?
 
+No
 
 b) Execute the program again with inputs 3 and 5.
 Does the program give correct results?  Why not?
+
+No
 
 
 c) Fix the program by editing the `area.c` source
@@ -141,4 +144,4 @@ code so that the program produces correct results.
 
 correct form:
 
-area = base * height * 
+area = base * height * 1/2
